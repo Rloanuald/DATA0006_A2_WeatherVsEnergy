@@ -10,7 +10,7 @@ We used data mining techniques:
 • Chi square test
 • SelectKBest
 • PCA
-• Train/Test method
+• Train/Test method.
 The various stages of modelling included:
 a) Data Collection and Extraction
 b) Data Transformation
